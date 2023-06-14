@@ -1,0 +1,11 @@
+C:\Users\alfre\source\repos\botones\botones\bin\Debug\botones.exe.config
+C:\Users\alfre\source\repos\botones\botones\bin\Debug\botones.exe
+C:\Users\alfre\source\repos\botones\botones\bin\Debug\botones.pdb
+C:\Users\alfre\source\repos\botones\botones\obj\Debug\botones.csproj.AssemblyReference.cache
+C:\Users\alfre\source\repos\botones\botones\obj\Debug\botones.csproj.SuggestedBindingRedirects.cache
+C:\Users\alfre\source\repos\botones\botones\obj\Debug\botones.Properties.Resources.resources
+C:\Users\alfre\source\repos\botones\botones\obj\Debug\botones.csproj.GenerateResource.cache
+C:\Users\alfre\source\repos\botones\botones\obj\Debug\botones.csproj.CoreCompileInputs.cache
+C:\Users\alfre\source\repos\botones\botones\obj\Debug\botones.exe
+C:\Users\alfre\source\repos\botones\botones\obj\Debug\botones.pdb
+C:\Users\alfre\source\repos\botones\botones\obj\Debug\botones.Form1.resources
